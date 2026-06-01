@@ -7,8 +7,8 @@
 - Composer
 
 ## Инициализация приложения
-composer install
-Отредактируйте env файл, изменив параметры подключения базы данных
-php artisan migrate:fresh --seed
-php artisan serve
+- composer install
+- Отредактируйте env файл, изменив параметры подключения базы данных
+- php artisan migrate:fresh --seed
+- php artisan serve
 
